@@ -1,0 +1,89 @@
+{
+  "Header": {
+    "title": "Customize your candle giftbox",
+    "paragraph": "YourScentedMemories"
+  },
+  "About": {
+    "paragraph": "YourScentedMemories",
+    "Why": [
+      "Brand 1",
+      "Brand 2",
+      "Brand 3"
+      
+    ],
+    "Why2": [
+      "Brand 4",
+      "Brand 5",
+      "Brand 6"
+    ]
+  },
+  
+  
+  "Testimonials": [
+    {
+      "img": "img/testimonials/01.jpg",
+      "text": "\"Everyone, both our colleagues in Europe and America, were very pleased with the quality. The order went well and contact with the B2B department also went smoothly! Thank you!!\"",
+      "name": "Jeri Rowland"
+    },
+    {
+      "img": "img/testimonials/02.jpg",
+      "text": "\"I was helped very good and the end product turned out very beautiful.\"",
+      "name": "Marion Wolf"
+    },
+    {
+      "img": "img/testimonials/03.jpg",
+      "text": "\"Very easy to find nice presents, a creative way of personalizing, fast delivery and great cooperation with the front office of YourSurprise.\"",
+      "name": "Francis Davenport"
+    },
+    {
+      "img": "img/testimonials/04.jpg",
+      "text": "\"No complaints - easy to order, quick response and update, quick delivery. Very happy with the product, will definately use again. Thank You!\"",
+      "name": "Gary Martinez"
+    },
+    {
+      "img": "img/testimonials/05.jpg",
+      "text": "\"Great service and a really lovely product. I made a mistake by ordering two and Lynsey sorted out for me. Wonderful service and would definitely recommend to a friend.\"",
+      "name": "Willie Horne"
+    },
+    {
+      "img": "img/testimonials/06.jpg",
+      "text": "\"Very easy to order and personalise the item was very straight forward.\"",
+      "name": "Melody Camacho"
+    }
+  ],
+  "Team": [
+    {
+      "img": "img/team/01.jpg"
+    }
+  ],
+  "Contact": {
+    "address": "Casa",
+    "phone": "+1(111)111-1111",
+    "email": "YourScentedMemories@gmail.ca",
+    "facebook": "fb.com",
+    "twitter": "twitter.com",
+    "instagram": "instagram.com"
+  },
+  "Features": [
+    {
+      "icon": "fa fa-copyright",
+      "title": "Brand 1",
+      "text": "Brand 1"
+    },
+    {
+      "icon": "fa fa-birthday-cake",
+      "title": "Brand 2",
+      "text": "Brand 2"
+    },
+    {
+      "icon": "fa fa-cube",
+      "title": "Brand 3",
+      "text": "Brand 3"
+    },
+    {
+      "icon": "fa fa-heart",
+      "title": "Brand 4",
+      "text": "Brand 4"
+    }
+  ]
+}
